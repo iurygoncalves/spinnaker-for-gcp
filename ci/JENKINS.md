@@ -16,8 +16,7 @@ There are several dependencies that must be available to the Jenkins server befo
 
 ### Google Cloud SDK
 
-The Google Cloud SDK is required to provision GCP resources. Install a [versioned archive](https://cloud.google.com/sdk/docs/downloads-versioned-archives) to the Jenkins server.
-
+The Google Cloud SDK is required to provision GCP resources. Install a [versioned archive](https://cloud.google.com/sdk/docs/downloads
 ### Git
 
 Git is required for backing up and restoring the Spinnaker for GCP configuration. Install Git on the Jenkins server by running `sudo apt-get install git-all`
